@@ -7,4 +7,9 @@ This is a simple lottery game implemented with smart contract. In every game, th
   <li>deploy on Rinkeby: input your own mnemonic word in the test network, and run node deploy.js</li>
 </ol>
 <h3>Attention</h3>
-<p>node.js version should not be older than <b>8.xx</b></p>
+<ul>
+  <li>node.js version should not be older than <b>8.xx</b></li>
+  <li>To run this app, the user must have <a href="https://metamask.io/">Metamask</a> installed </li>
+</ul>
+
+
